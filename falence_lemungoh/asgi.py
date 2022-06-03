@@ -1,5 +1,5 @@
 """
-ASGI config for i4g000444biw project.
+ASGI config for falence_lemungoh project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
@@ -11,6 +11,6 @@ import os
 
 from django.core.asgi import get_asgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'i4g000444biw.settings')
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'falence_lemungoh.settings')
 
 application = get_asgi_application()
